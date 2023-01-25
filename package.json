@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Node.js rewrite of MusixmatchClientLib, library to interact with Musixmatch private API.",
   "main": "index.js",
+  "scripts": {
+    "dev": "node _devtest.js"
+  },
   "author": "Eimaen",
   "license": "MIT",
   "dependencies": {
