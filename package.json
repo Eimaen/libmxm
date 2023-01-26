@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node _devtest.js"
   },
-  "author": "Eimaen",
+  "author": "Eimaen <stdcpp.h@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.2.3"
