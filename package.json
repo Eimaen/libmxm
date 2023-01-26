@@ -7,6 +7,7 @@
     "dev": "node _devtest.js"
   },
   "author": "Eimaen <stdcpp.h@gmail.com>",
+  "repository": "Eimaen/libmxm",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.2.3"
