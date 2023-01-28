@@ -1,6 +1,6 @@
 {
   "name": "libmxm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Node.js rewrite of MusixmatchClientLib, library to interact with Musixmatch private API.",
   "main": "index.js",
   "scripts": {
